@@ -1,0 +1,2 @@
+This is a collection of Ruby scripts related to investment portfolio management.
+
